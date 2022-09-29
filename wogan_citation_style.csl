@@ -1,6 +1,5 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <style xmlns="http://purl.org/net/xbiblio/csl" class="in-text" version="1.0" demote-non-dropping-particle="sort-only" default-locale="en-US">
-  <!-- This style was edited with the Visual CSL Editor (https://editor.citationstyles.org/visualEditor/) -->
   <info>
     <title>International Pig Veterinary Society Congress Proceedings</title>
     <title-short>IPVS</title-short>
@@ -14,7 +13,7 @@
     <category citation-format="numeric"/>
     <category field="medicine"/>
     <summary>International Pig Veterinary Society Proceeding Style</summary>
-    <updated>2022-09-29T18:13:44+00:00</updated>
+    <updated>2022-09-29T18:19:36+00:00</updated>
     <rights license="http://creativecommons.org/licenses/by-sa/3.0/">This work is licensed under a Creative Commons Attribution-ShareAlike 3.0 License</rights>
   </info>
   <macro name="author">
@@ -43,7 +42,7 @@
     <sort>
       <key variable="citation-number"/>
     </sort>
-    <layout vertical-align="baseline" delimiter="," prefix="(" suffix=")">
+    <layout vertical-align="sup" delimiter=",">
       <text variable="citation-number"/>
     </layout>
   </citation>
